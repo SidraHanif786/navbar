@@ -1,0 +1,25 @@
+/* custom-scrollbar.css */
+.scroll::-webkit-scrollbar {
+    width: 8px;
+    height: 10px;
+  }
+  
+  .scroll::-webkit-scrollbar-track {
+    background: #dadada;
+    box-shadow: inset 0 0 5px rgb(221, 221, 221); 
+  border-radius: 10px;
+  }
+  
+  .scroll::-webkit-scrollbar-thumb {
+    background: #4366b9;
+    border-radius: 10px;
+  }
+  
+  .scroll::-webkit-scrollbar-thumb:hover {
+    background: #1e5de6b0;
+  }
+  
+  
+  
+  
+  

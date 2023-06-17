@@ -1,12 +1,12 @@
 # NavBar UI
 
-##NavBar View In Browser
+## NavBar View In Browser
 
 ![Alt Text](src/screenshorts/fullwidth.png)
 
 ![Alt Text](src/screenshorts/responsive.png)
 
-##Complete NavBar
+## Complete NavBar
 
 ![Alt Text](src/screenshorts/Fullpage.png)
 
